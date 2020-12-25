@@ -1,0 +1,10 @@
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe.config
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\bin\Debug\StringManipulation.exe
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csprojAssemblyReference.cache
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.StringManipulation.resources
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.Properties.Resources.resources
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.GenerateResource.cache
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.exe
+C:\Users\toni_\source\repos\StringManipulation\StringManipulation\obj\Debug\StringManipulation.pdb
