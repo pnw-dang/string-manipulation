@@ -1,7 +1,7 @@
 # string-manipulation
 Here are some of the exercises I did with string manipulation. 
 
-Practice problems includes:
+Practice problems include:
 
 * Calculate the number of characters and vowels
 * Get the first, middle, and last letter of the string
